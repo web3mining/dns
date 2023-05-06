@@ -1,0 +1,52 @@
+{
+    "resolvers": [
+        {
+            "address": "EQBUKxK-NPOlxmkfwjbOuoWpDxSt3bXjI1K-ZDYMRtkbXgOl",
+            "domain": "web3mining.ton",
+            "prices": {
+                "1": 500,
+                "10": 1,
+                "2": 500,
+                "3": 10,
+                "4": 10,
+                "5": 2,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 1
+            }
+        },
+        {
+            "address": "EQApcz3xqDdcBhfS51-8uSGJDEub1iR8nHYc-G3vl7YZ_Yvj",
+            "domain": "metaspace.ton",
+            "prices": {
+                "1": 50,
+                "10": 1,
+                "2": 50,
+                "3": 10,
+                "4": 8,
+                "5": 4,
+                "6": 2,
+                "7": 2,
+                "8": 2,
+                "9": 1
+            }
+        },
+        {
+            "address": "EQATbIOeT9ziq7Jf76dJlnWIAiZggY2TeDteAh46D4QICBZj",
+            "domain": "fingerprints.ton",
+            "prices": {
+                "1": 50,
+                "10": 1,
+                "2": 30,
+                "3": 10,
+                "4": 5,
+                "5": 3,
+                "6": 2,
+                "7": 1,
+                "8": 1,
+                "9": 1
+            }
+        }
+    ]
+}
